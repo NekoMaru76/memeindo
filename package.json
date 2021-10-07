@@ -1,0 +1,27 @@
+{
+  "name": "memeindo",
+  "version": "1.0.3",
+  "description": "Sebuah generator Meme Indonesia",
+  "main": "index.js",
+  "scripts": {
+    "install": "echo Terimakasih telah menggunakan memeindo dari Audiawan.",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "uninstall": "echo Kami sedih jika anda menguninstall.Jika mengalami bug, harap laporkan ke pembuat."
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "meme",
+    "memeindo",
+    "indo",
+    "generator",
+    "random",
+    "stuff",
+    "memeindonesia",
+    "indonesia"
+  ],
+  "author": "Axa#4996",
+  "license": "MIT"
+}
