@@ -15,7 +15,7 @@ var mi = require('memeindo');
 console.log(mi().meme);
 ```
 
-## 📍 Pemakaian Discord-Bot
+## 📍 Pemakaian pada discord-Bot
 
 ```js
 var mi = require('memeindo');

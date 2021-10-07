@@ -1,6 +1,6 @@
 {
   "name": "memeindo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sebuah generator Meme Indonesia",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "index.js",
     "cli.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Audiawan/memeindo.git"
+  },
   "keywords": [
     "meme",
     "memeindo",
@@ -23,5 +27,9 @@
     "indonesia"
   ],
   "author": "Axa#4996",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Audiawan/memeindo/issues"
+  },
+  "homepage": "https://github.com/Audiawan/memeindo#readme"
 }
